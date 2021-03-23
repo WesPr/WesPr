@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Wesley Preece
 - 👀 I’m interested in all things tech
-- 🌱 I’m currently learning Java
+- 🌱 Java, Python, C++, SQL
 
 <!---
 WesPr/WesPr is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
