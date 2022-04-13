@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Wesley Preece
-- Based in Amsterdam, Netherlands 🇳🇱
+- Based in Amsterdam, Netherlands
 
 <!---
 WesPr/WesPr is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
