@@ -1,4 +1,3 @@
-- 👋 Hi, I’m Wesley Preece
 - Based in Amsterdam, Netherlands
 
 <!---
